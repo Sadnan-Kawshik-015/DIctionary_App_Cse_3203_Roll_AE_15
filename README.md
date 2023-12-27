@@ -9,5 +9,7 @@ Author : Sadnan Kibria Kawshik
 * this implementation*/
 
 
-## Demo:![Local Image](1.png)![Local Image](2.png)
-https://www.youtube.com/watch?v=LLSKpqPP4Sc
+## Demo:<br/>
+![Local Image](1.png) ![Local Image](2.png)
+
+## Video Demo: https://www.youtube.com/watch?v=LLSKpqPP4Sc
